@@ -10,10 +10,10 @@ ra: 20h56m00s
 dec: +31°26'12"
 ra-precise: 20h55m59.718s,
 dec-precise: +31°26'12.239"
-rot: 44.751°
+rot: 44.75°
 width: 104.61'
-height: 69.577'
-pxscale: 1.53021"/px
+height: 69.58'
+pxscale: 1.53"/px
 featured_image: "img/2022-05-30 c33 eastern veil neb.png"
 ---
 

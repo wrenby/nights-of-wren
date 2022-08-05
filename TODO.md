@@ -19,8 +19,6 @@
   - [o] do aliases go here or in post header?
 - [x] define glossary terms on hover
   - [x] fix text size and width of tooltip
-  - [ ] disable for json/rss output *******
-    - lazy load?
   - [ ] reposition to -999 -999 on page resize or end of fadeout animation
   - [o] add dark/light formatting
     - tbh i don't think it actually needs it
@@ -28,13 +26,10 @@
   - [x] make it work if there are no params and only inner text
   - [x] add javascript to keep the tooltip from being offscreen
     - https://medium.com/carwow-product-engineering/building-a-simple-tooltip-component-that-never-goes-off-screen-c7039dcab5f9#3b6a
-- [ ] distinguish between date taken and date posted
+- [o] distinguish between date taken and date posted
 - [x] use partialCached
 - [x] srcset on the featured image
 - [x] link to full-res images on click
-- [ ] annotate on hover, like astrobin does
-  - i need to buy pixinsight to do this efficiently
-- [ ] fix datetime formatting in search results
 - [x] fix search ui below 768px viewport width, when it turns to hamburger mode
 - [ ] buttons on the side of each image to take to the previous/next posts
 - [x] social media links: cloudynights, instagram, rss, github?
@@ -47,6 +42,12 @@
 - [x] fix accentColor typo
 - [ ] check if color scheme preference respects light as a preference
 - [ ] i'm losing a ton of time in postcss -- can i get rid of it?
+- [x] layout of details (ra, dec, width, height, etc) is messy, especially on mobile
+- [ ] annotate on hover, like astrobin does
+  - i need to buy pixinsight to do this efficiently
+- [ ] fix datetime formatting in search results
+- [ ] disable tooltip output for json/rss output *******
+  - lazy load?
 
 
 pagination viewport width breakpoints:
