@@ -1,0 +1,27 @@
+{
+    "ra": "Right Ascension, the celestial equivalent of longitude",
+    "dec": "Declination, the celestial equivalent of latitude",
+    "arc-second": "1/360 of a degree, or 1/129600 of a full circle",
+    "arc-minute": "1/60 of a degree, or 1/21600 of a full circle",
+    "j2000": "A method of standardizing the coordinates of moving objects by using their location on Jan 1, 2000",
+
+    "emission nebula": "A cloud of gas emitting light of certain wavelength due to quantum behavior. Normally hydrogen, ionized by a nearby star that formed from the same gas",
+    "hydrogen alpha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
+    "ha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
+
+    "dither": "A technique to reduce noise due to \u003ca href='https://en.wikipedia.org/wiki/Color_filter_array'\u003ecolor filter arrays\u003c/a\u003e and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
+    "dithering": "A technique to reduce noise due to \u003ca href='https://en.wikipedia.org/wiki/Color_filter_array'\u003ecolor filter arrays\u003c/a\u003e and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
+    "stack": "A post-processing technique used to smooth out noise in an image by averaging the data from several captures into one while removing outliers",
+    "stacking": "A post-processing technique used to smooth out noise in an image by averaging the data from several captures into one while removing outliers",
+
+    "arp": "Atlas of Peculiar Galaxies, published in 1966 by Halton Arp",
+    "c": "Caldwell Catalogue, a list of objects for observation by amateur astronomers, published in 1995 by Patrick Moore",
+    "ced": "Cederblad Catalogue, a list of bright gaseous nebulae published in 1948 by Sven Cederblad",
+    "cr": "A catalogue of 471 open clusters published in 1931 by Per Collinder",
+    "ic": "Index Catalogue, the first major update to the ubiquitous New General Catalogue, published in two parts in 1895 and 1908 by John Louis Emil Dreyer",
+    "lbn": "Lynds' Catalogue of Bright Nebulae, published in 1965 by Beverly Lynds",
+    "ldn": "Lynds' Catalogue of Dark Nebulae, published in 1962 by Beverly Lynds",
+    "ngc": "New General Catalogue, a list of various types of deep-sky objects published in 1888 by John Louis Emil Dreyer",
+    "sh2": "Catalogue of H II Regions (ionized hydrogen nebulae), published in 1959 by Stewart Sharpless",
+    "vdb": "A Study of Reflection Nebulae, published in 1966 by Sidney van den Bergh"
+}
