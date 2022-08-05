@@ -1,8 +1,6 @@
 - [x] inform browser on which srcset image to use in what circumstances
 - [x] adjust srcset sizes reflect the normal 4096 side length instead of 6000
   - this ended up being stupid and i did someting better instead
-- [ ] show map of where this image is in the night sky
-  - ~~html5 canvas overlay??~~ nope, swap to astrometry.net output on hover
 - [x] show RA/DEC in post header
   - [x] create an svg of a compass or something to hint at its meaning
   - [x] why is there added whitespace??
@@ -14,12 +12,12 @@
 - [x] why does the gallery page say "Galleries"?
   - [x] still need to fix for blog -- i want a general solution!
     - nvm i don't fucking care; hugo changes .Title automatically
-- [ ] hugo archetype
 - [o] show more detailed information somewhere else
   - [o] do aliases go here or in post header?
 - [x] define glossary terms on hover
   - [x] fix text size and width of tooltip
-  - [ ] reposition to -999 -999 on page resize or end of fadeout animation
+  - [x] reposition to -999 -999 on page resize or end of fadeout animation
+    - actually just called snap_tooltip on resize
   - [o] add dark/light formatting
     - tbh i don't think it actually needs it
   - [x] throw error if the word is missing from dictionary
@@ -31,23 +29,26 @@
 - [x] srcset on the featured image
 - [x] link to full-res images on click
 - [x] fix search ui below 768px viewport width, when it turns to hamburger mode
-- [ ] buttons on the side of each image to take to the previous/next posts
 - [x] social media links: cloudynights, instagram, rss, github?
   - [x] add something for rss
   - [x] edit instagram svg to something that doesn't suck
-- [ ] change 404 page
-  - black hole?
 - [x] do i want to keep the header on the landing page?
   - current decision: no
 - [x] fix accentColor typo
+- [x] layout of details (ra, dec, width, height, etc) is messy, especially on mobile
+- [ ] buttons on the side of each image to take to the previous/next posts
 - [ ] check if color scheme preference respects light as a preference
 - [ ] i'm losing a ton of time in postcss -- can i get rid of it?
-- [x] layout of details (ra, dec, width, height, etc) is messy, especially on mobile
 - [ ] annotate on hover, like astrobin does
   - i need to buy pixinsight to do this efficiently
 - [ ] fix datetime formatting in search results
 - [ ] disable tooltip output for json/rss output *******
   - lazy load?
+- [ ] show map of where this image is in the night sky
+  - ~~html5 canvas overlay??~~ nope, swap to astrometry.net output on hover
+- [ ] change 404 page
+  - black hole?
+- [ ] hugo archetype
 
 
 pagination viewport width breakpoints:
