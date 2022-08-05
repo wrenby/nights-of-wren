@@ -57,7 +57,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   title = "Find me here"
   #description = "or don't, i'm not your mom"
-  rss = "https://astro.wren.dev/index.xml"
+  rss = "/index.xml"
   #twitter = "https://twitter.com/"
   reddit = "https://reddit.com/wrenby_astro"
   instagram = "https://instagram.com/wrenby_astro"

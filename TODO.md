@@ -39,11 +39,13 @@
 - [ ] buttons on the side of each image to take to the previous/next posts
 - [ ] check if color scheme preference respects light as a preference
 - [ ] i'm losing a ton of time in postcss -- can i get rid of it?
-- [ ] annotate on hover, like astrobin does
+- [ ] annotate on image hover, like astrobin does
+  - how to handle on mobile? click for full-res and hover for annotate can't be distinguished
   - i need to buy pixinsight to do this efficiently
 - [ ] fix datetime formatting in search results
-- [ ] disable tooltip output for json/rss output *******
-  - lazy load?
+- [x] disable tooltip output for json/rss output
+  - [ ] read json file from server instead of embedding it in every page
+- [ ] add a little triangle to tooltips to show what you clicked on
 - [ ] show map of where this image is in the night sky
   - ~~html5 canvas overlay??~~ nope, swap to astrometry.net output on hover
 - [ ] change 404 page

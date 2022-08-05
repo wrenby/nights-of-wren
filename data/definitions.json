@@ -9,8 +9,8 @@
     "hydrogen alpha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
     "ha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
 
-    "dither": "A technique to reduce noise due to \u003ca href='https://en.wikipedia.org/wiki/Color_filter_array'\u003ecolor filter arrays\u003c/a\u003e and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
-    "dithering": "A technique to reduce noise due to \u003ca href='https://en.wikipedia.org/wiki/Color_filter_array'\u003ecolor filter arrays\u003c/a\u003e and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
+    "dither": "A technique to reduce noise due to <a href='https://en.wikipedia.org/wiki/Color_filter_array'> filter arrays</a> and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
+    "dithering": "A technique to reduce noise due to <a href='https://en.wikipedia.org/wiki/Color_filter_array'>color filter arrays</a> and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
     "stack": "A post-processing technique used to smooth out noise in an image by averaging the data from several captures into one while removing outliers",
     "stacking": "A post-processing technique used to smooth out noise in an image by averaging the data from several captures into one while removing outliers",
 
