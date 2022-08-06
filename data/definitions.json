@@ -8,6 +8,7 @@
     "emission nebula": "A cloud of gas emitting light of certain wavelength due to quantum behavior. Normally hydrogen, ionized by a nearby star that formed from the same gas",
     "hydrogen alpha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
     "ha": "The 626nm wavelength (deep red) light emitted when an electron in a hydrogen atom falls from its third energy level to its second",
+    "stellar death": "A star is considered dead when there is no more nuclear fusion occurring in its core, even if what remains may still radiate heat or light",
 
     "dither": "A technique to reduce noise due to <a href='https://en.wikipedia.org/wiki/Color_filter_array'> filter arrays</a> and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
     "dithering": "A technique to reduce noise due to <a href='https://en.wikipedia.org/wiki/Color_filter_array'>color filter arrays</a> and electronic interference from the camera, accomplished by moving the frame slightly between exposures",
@@ -21,7 +22,9 @@
     "ic": "Index Catalogue, the first major update to the ubiquitous New General Catalogue, published in two parts in 1895 and 1908 by John Louis Emil Dreyer",
     "lbn": "Lynds' Catalogue of Bright Nebulae, published in 1965 by Beverly Lynds",
     "ldn": "Lynds' Catalogue of Dark Nebulae, published in 1962 by Beverly Lynds",
-    "ngc": "New General Catalogue, a list of various types of deep-sky objects published in 1888 by John Louis Emil Dreyer",
+    "m": "A list of 110 Things That Are Not Comets, compiled in 1774 by frustrated comet hunter Charles Messier. Contains most deep-sky objects easily observable in the Northern Hemisphere.",
+    "ngc": "New General Catalogue, a comprehensive list of various types of deep-sky objects known at the time, published in 1888 by John Louis Emil Dreyer",
+    "pk": "<b>P</b>erek and <b>K</b>ohoutek's 1964 catalogue of all planetary nebulae in the Milky Way known at time of publication",
     "sh2": "Catalogue of H II Regions (ionized hydrogen nebulae), published in 1959 by Stewart Sharpless",
     "vdb": "A Study of Reflection Nebulae, published in 1966 by Sidney van den Bergh"
 }
