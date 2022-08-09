@@ -1,6 +1,6 @@
 - [x] inform browser on which srcset image to use in what circumstances
 - [x] adjust srcset sizes reflect the normal 4096 side length instead of 6000
-  - this ended up being stupid and i did someting better instead
+  - this ended up being stupid and i did something better instead
 - [x] show RA/DEC in post header
   - [x] create an svg of a compass or something to hint at its meaning
   - [x] why is there added whitespace??
@@ -36,21 +36,29 @@
   - current decision: no
 - [x] fix accentColor typo
 - [x] layout of details (ra, dec, width, height, etc) is messy, especially on mobile
+- [x] disable tooltip output for json/rss output
+  - [x] read json file from server instead of embedding it in every page
+- [o] page hangs while resizing the window
+  - only happens in hugo serve's development environment
+- [o] i'm losing a ton of time in postcss -- can i get rid of it?
+  - [o] why is this dumbass theme downloading the entire 7mb tailwind css file
+  - only lags in hugo serve; release version is cut down and minimized
 - [ ] buttons on the side of each image to take to the previous/next posts
 - [ ] check if color scheme preference respects light as a preference
-- [ ] i'm losing a ton of time in postcss -- can i get rid of it?
+
 - [ ] annotate on image hover, like astrobin does
   - how to handle on mobile? click for full-res and hover for annotate can't be distinguished
   - i need to buy pixinsight to do this efficiently
 - [ ] fix datetime formatting in search results
-- [x] disable tooltip output for json/rss output
-  - [ ] read json file from server instead of embedding it in every page
 - [ ] add a little triangle to tooltips to show what you clicked on
+- [ ] fix edge case of tooltips in wrapped span
 - [ ] show map of where this image is in the night sky
   - ~~html5 canvas overlay??~~ nope, swap to astrometry.net output on hover
 - [ ] change 404 page
   - black hole?
 - [ ] hugo archetype
+- [ ] move script in head.html to be external
+- [ ] show moon percentage in front matter?
 
 
 pagination viewport width breakpoints:

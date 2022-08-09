@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hi! I'm Wren"
-      introSubtitle = "I'm a non-binary astrophotographer from Pittsburgh, PA"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      #introTitle = "Hi! I'm Wren"
+      subtitle = "Astrophotography by Wren Baxter"
+      #introPhoto = "/picture.jpg"
+      #logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "about"
         url = "about"
@@ -53,6 +53,9 @@ DefaultContentLanguageInSubdir = true
 
   # The page bundle that is shown on the front page
   frontBundle = "gallery"
+
+[imaging]
+  anchor = "Center"
 
 [params.homepage.social]
   title = "Find me here"
