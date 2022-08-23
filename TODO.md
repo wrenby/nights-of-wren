@@ -59,6 +59,7 @@
 - [ ] hugo archetype
 - [ ] move script in head.html to be external
 - [ ] show moon percentage in front matter?
+- [ ] list more than 6 tags per page
 
 
 pagination viewport width breakpoints:
