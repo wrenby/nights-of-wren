@@ -2,15 +2,19 @@
 title: "M 31, The Andromeda Galaxy"
 description: "And its satellite galaxies M 32 and M 110"
 tags: ["deep-sky", "galaxy", "messier-object"]
+
 date: 2022-06-28
 date_taken: 2022-06-28
 date_posted: 2022-08-06
+
 ra: 00h42m42s
 dec: +42°16'12"
 rot: -20.12°
 width: 113.83'
 height: 75.10'
 pxscale: 1.18"/px
+moon: 1%
+
 featured_image: "img/2022-06-28 m31 andromeda gal.png"
 ---
 

@@ -2,9 +2,11 @@
 title: "Full Moon Mosaic"
 description: In 6K resolution
 tags: ["solar-system", "moon"]
+
 date: 2022-10-11
 date_taken: 2022-10-11
 date_posted: 2023-02-23
+
 featured_image: "img/2022-10-11 moon mosaic.png"
 ---
 

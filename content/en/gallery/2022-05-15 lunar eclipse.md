@@ -5,6 +5,12 @@ tags: ["solar-system", "moon"]
 date: 2022-05-15
 date_taken: 2022-05-15
 date_posted: 2022-08-04
+
+width: 117.71'
+height: 78.65'
+pxscale: 1.17"/px
+moon: 100%
+
 featured_image: "img/2022-05-15 lunar eclipse.png"
 ---
 
