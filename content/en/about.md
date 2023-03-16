@@ -5,7 +5,7 @@ date: 2022-07-30
 last_updated: 2023-01-30
 ---
 
-Hi! My name is Wren, and I'm a Pittsburgh-native amateur astrophotographer. Nights of Wren is a personal site I'm creating as a platform to share my photos with others. My interest mostly lies *deep-sky astrophotography*, which means I mostly take pictures of very distant things light-years away as opposed to planets or other things in the solar system. The category of deep-sky objects includes a wide variety: ancient clusters of stars in orbit around the Milky Way, glowing oceans of turbulent star-forming hydrogen, remnants of dead or dying stars, galaxies far far away, and more.
+Hi! My name is Wren, and I'm a Pittsburgh-native amateur astrophotographer. Nights of Wren is a personal site I'm creating as a platform to share my photos with others. My interest mostly lies in *deep-sky astrophotography*, which means I mostly take pictures of very distant things light-years away as opposed to planets or other things in the solar system. The category of deep-sky objects includes a wide variety: ancient clusters of stars in orbit around the Milky Way, glowing oceans of turbulent star-forming hydrogen, remnants of dead or dying stars, galaxies far far away, and more.
 
 <!--Several of these objects appear very large, spanning the area of several full moons on the night sky, but most are very dim, and require hours of exposure time distributed over dozens or hundreds of exposures to produce a low-noise image in a moderately light-polluted environment. These exposures are then edited (or individually thrown out) to remove sources of interference such as camera electronics, skyglow, or satellite trails, and {{<def "stacking">}}stacked{{</def>}} into one composite final image.-->
 

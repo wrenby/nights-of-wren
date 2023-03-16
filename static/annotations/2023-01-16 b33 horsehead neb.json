@@ -1,0 +1,14 @@
+{
+  "status": "solved",
+  "git-revision": 0.93,
+  "git-date": "Mon_Dec_19_16:41:15_2022_-0500",
+  "annotations": [
+{ "type"  : "star",   "pixelx": 1177.37,         "pixely": 657.073,         "name"  : "Alnitak",     "names" : [ "Alnitak", "ζ Ori / 50 Ori" ] } ,
+{ "type"  : "star",   "pixelx": 415.534,         "pixely": 1164.41,         "name"  : "σ Ori / 48 Ori",     "names" : [ "σ Ori / 48 Ori" ] } ,
+{ "type"   : "ngc",   "names"  : [ "IC 434" ],   "pixelx" : 618.169,   "pixely" : 549.661,   "radius" : 759.384 },
+{ "type"   : "ngc",   "names"  : [ "IC 435" ],   "pixelx" : 810.225,   "pixely" : 9.94681,   "radius" : 36.6772 },
+{ "type"   : "ngc",   "names"  : [ "NGC 2023", "Lump Star" ],   "pixelx" : 844.362,   "pixely" : 391.425,   "radius" : 92.1537 },
+{ "type"   : "ngc",   "names"  : [ "B 33", "LDN 1730", "Horsehead Nebula" ],   "pixelx" : 618.169,   "pixely" : 549.661,   "radius" : 100.384 },
+{ "type"   : "ngc",   "names"  : [ "NGC 2024", "Sh2-277", "Flame Nebula", "Orion B" ],   "pixelx" : 1290.02,   "pixely" : 400.953,   "radius" : 276.461 }
+]
+}
