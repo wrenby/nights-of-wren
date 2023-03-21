@@ -18,3 +18,5 @@ moon: 100%
 featured_image: "img/2023-01-16 b33 horsehead neb.png"
 draft: true
 ---
+
+Blue supergiant Alnitak
