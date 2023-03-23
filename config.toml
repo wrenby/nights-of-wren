@@ -12,8 +12,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      #introTitle = "Hi! I'm Wren"
-      subtitle = "Astrophotography by Wren Baxter"
+      description = "Astrophotography by Wren Baxter"
       #introPhoto = "/picture.jpg"
       #logo = "/blist-logo.png"
     [[languages.en.menu.main]]
@@ -42,6 +41,9 @@ DefaultContentLanguageInSubdir = true
 
   # Enable search in header
   enableSearch = true
+
+  # Enable infinite scroll
+  infiniteScroll = true
 
   # Custom copyright - optional
   copyright = "Powered by \u003ca href='https://gohugo.io'\u003eHugo\u003c/a\u003e · Copyright © 2022 Wren Baxter · All rights reserved"

@@ -1,6 +1,6 @@
 ---
 title: "M 13, Hercules Globular Cluster"
-description: "A globular cluster in the constellation Hercules"
+description: "A star cluster in the constellation Hercules"
 tags: ["deep-sky", "star-cluster", "globular-cluster", "messier-object"]
 
 date: 2022-04-11
