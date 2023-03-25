@@ -20,10 +20,10 @@ DefaultContentLanguageInSubdir = true
         url = "about"
         weight = 1
 
-    [[languages.en.menu.main]]
-        name = "blog"
-        url = "blog"
-        weight = 2
+      # [[languages.en.menu.main]]
+      #     name = "blog"
+      #     url = "blog"
+      #     weight = 2
 
     [[languages.en.menu.main]]
         name = "gallery"
@@ -65,7 +65,7 @@ DefaultContentLanguageInSubdir = true
   #description = "or don't, i'm not your mom"
   rss = "/index.xml"
   #twitter = "https://twitter.com/"
-  reddit = "https://reddit.com/wrenby_astro"
+  reddit = "https://reddit.com/u/wrenby_astro"
   instagram = "https://instagram.com/wrenby_astro"
   cloudynights = "https://www.cloudynights.com/user/398565-wrenby/"
   github = "https://github.com/wrenby"
