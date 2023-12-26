@@ -1,19 +1,28 @@
 ---
 title: "M 51, The Whirlpool Galaxy"
 description: "A galaxy in the constellation Canes Venatici"
-tags: ["deep-sky", "emission-nebula", "diffuse-nebula", "messier-object"]
+tags: ["deep-sky", "canes-venatici", "galaxy", "spiral-galaxy", "messier-object"]
 
-date: 2022-05-20
-date_taken: 2022-05-20
-date_posted: 2023-03-25
+date: 2022-04-15
 
-ra: 13h29m53s
-dec: +47°12'10"
-width: 56.96'
-height: 37.94'
-pxscale: 1.17"/px
-rot: 93.62°
-moon: 95%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 13h29m53s
+    dec: +47°12'10"
+    width: 56.96'
+    height: 37.94'
+    pxscale: 1.17"/px
+    rot: 93.62°
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 95%
 
 featured_image: "img/2022-04-15 m51 whirlpool gal.png"
 ---

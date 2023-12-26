@@ -1,22 +1,31 @@
 ---
 title: "M 81, Bode's Galaxy"
 description: "Pictured with M 82 and NGC 3077"
-tags: ["deep-sky", "galaxy", "messier-object"]
+tags: ["deep-sky", "ursa-major", "galaxy", "spiral-galaxy", "messier-object"]
 
 date: 2022-05-09
-date_taken: 2022-05-09
-date_posted: 2023-03-26
 
-ra: 09h56m55s
-dec: +69°05'55"
-rot: -140.49°
-width: 95.82'
-height: 63.94'
-pxscale: 2.99"/px
-moon: 61%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 09h56m55s
+    dec: +69°05'55"
+    rot: -140.49°
+    width: 95.82'
+    height: 63.94'
+    pxscale: 2.99"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 61%
 
 featured_image: "img/2022-05-09 m81 bodes gal.png"
-draft: true
+# draft: true
 ---
 
 M 82

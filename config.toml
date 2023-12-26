@@ -1,82 +1,54 @@
 baseurl = "https://astro.wren.dev/"
 metaDataFormat = "yaml"
 title = "Nights of Wren"
-theme = "blist"
+theme = "arcsecond"
 pluralizeListTitles =  false
+
+[[menus.main]]
+name = 'Gallery'
+pageRef = '/gallery'
+weight = 10
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
-    contentDir = "content/en" #English
+    contentDir = "content/en"
     weight = 1
+    languageCode = "en-US"
     languageName = "English"
-    [languages.en.params]
-      description = "Astrophotography by Wren Baxter"
-      #introPhoto = "/picture.jpg"
-      #logo = "/blist-logo.png"
-    [[languages.en.menu.main]]
-        name = "about"
-        url = "about"
-        weight = 1
-
-      # [[languages.en.menu.main]]
-      #     name = "blog"
-      #     url = "blog"
-      #     weight = 2
-
-    [[languages.en.menu.main]]
-        name = "gallery"
-        url = "gallery"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "tags"
-        url = "tags"
-        weight = 4
 
 [params]
-  # Enable the darkmode toggle in header
-  darkModeToggle = true
+  logo = "logo.svg"
+  favicon = "icon.svg"
+  front_page = "gallery"
+  infinite_scroll = true
+  search_hotkey = '/'
+  star_charts_from = "pixinsight"
+  custom_css = [ "css/shimmer.css" ]
 
-  # Enable search in header
-  enableSearch = true
-
-  # Enable infinite scroll
-  infiniteScroll = true
-
-  # Custom copyright - optional
-  copyright = "Powered by \u003ca href='https://gohugo.io'\u003eHugo\u003c/a\u003e · Copyright © 2022 Wren Baxter · All rights reserved"
-  favicon = "/favicon.svg"
-
-  # Color for the intro details and social links block, not applicable for dark mode
-  # Supported values: Any color from TailwindCSS default colors
-  # Reference: https://tailwindcss.com/docs/customizing-colors
-  accentColor = "bg-blue-100"
-
-  # The page bundle that is shown on the front page
-  frontBundle = "gallery"
-
-[imaging]
-  anchor = "Center"
-
-[params.homepage.social]
-  title = "Find me here"
-  #description = "or don't, i'm not your mom"
-  rss = "/index.xml"
-  #twitter = "https://twitter.com/"
-  reddit = "https://reddit.com/u/wrenby_astro"
-  instagram = "https://instagram.com/wrenby_astro"
-  cloudynights = "https://www.cloudynights.com/user/398565-wrenby/"
-  github = "https://github.com/wrenby"
-  #keybase = "https://keybase.io/wrenby"
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
-
-[build]
-  writeStats = true
+[params.comments]
+  system = "giscus"
+  repo = "wrenby/wrenby.github.io"
+  repo_id = "R_kgDOHxgI1g"
+  category = "General"
+  category_id = "DIC_kwDOHxgI1s4CVd-b"
+  reactions_enabled = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

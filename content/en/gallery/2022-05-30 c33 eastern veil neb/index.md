@@ -1,19 +1,28 @@
 ---
 title: "C 33, The Eastern Veil Nebula"
 description: Part of a supernova remnant in the constellation Cygnus
-tags: ["deep-sky", "nebula", "supernova-remnant", "emission-nebula", "diffuse-nebula"]
+tags: ["deep-sky", "cygnus", "nebula", "diffuse-nebula", "supernova-remnant", "emission-nebula"]
 
 date: 2022-05-30
-date_taken: 2022-05-30
-date_posted: 2022-08-04
 
-ra: 20h56m00s
-dec: +31°26'12"
-rot: 44.75°
-width: 104.61'
-height: 69.58'
-pxscale: 1.53"/px
-moon: 0%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 20h56m00s
+    dec: +31°26'12"
+    rot: 44.75°
+    width: 104.61'
+    height: 69.58'
+    pxscale: 1.53"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 0%
 
 featured_image: "img/2022-05-30 c33 eastern veil neb.png"
 ---

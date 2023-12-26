@@ -1,19 +1,28 @@
 ---
 title: "IC 5067, The Pelican Nebula"
 description: An emission nebula in the constellation Cygnus
-tags: ["deep-sky", "nebula", "emission-nebula", "diffuse-nebula"]
+tags: ["deep-sky", "cygnus", "nebula", "diffuse-nebula", "emission-nebula"]
 
 date: 2022-05-10
-date_taken: 2022-05-10
-date_posted: 2022-05-22
 
-ra: 20h50m10s
-dec: +44°02'25"
-rot: 39.62°
-width: 117.56'
-height: 78.34'
-pxscale: 1.17"/px
-moon: 61%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 20h50m10s
+    dec: +44°02'25"
+    rot: 39.62°
+    width: 117.56'
+    height: 78.34'
+    pxscale: 1.17"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 61%
 
 featured_image: "img/2022-05-10 ic5067 pelican neb.jpg"
 ---

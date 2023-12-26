@@ -1,16 +1,28 @@
 ---
 title: "Jupiter in Monochrome"
 description: And Galilean moons Io and Callisto
-tags: ["solar-system", "planet"]
+tags: ["solar-system", "planet", "lucky-imaging"]
 
 date: 2022-08-03
-date_taken: 2022-08-03
-date_posted: 2022-08-09
 
-width: 4.06'
-height: 4.06'
-pxscale: 0.63"/px
-moon: 26%
+equipment:
+    camera: ZWO ASI120MM Mini
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+
+framing:
+    width: 4.06'
+    height: 4.06'
+    pxscale: 0.63"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 26%
+
+orrery:
+    target: jupiter
+    time: 2022-08-03T05:40:39.000-04:00
 
 featured_image: "img/2022-08-04 jupiter.png"
 ---

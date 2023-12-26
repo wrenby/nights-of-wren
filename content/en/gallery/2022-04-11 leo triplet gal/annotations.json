@@ -1,0 +1,10 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "NGC 3623", "M 65" ],   "pixelx" : 1052.22,   "pixely" : 1413.46,   "radius" : 225.317 },
+{ "type"   : "ngc",   "names"  : [ "NGC 3627", "M 66" ],   "pixelx" : 1516.25,   "pixely" : 493.165,   "radius" : 262.809 },
+{ "type"   : "ngc",   "names"  : [ "NGC 3628", "Hamburger Galaxy" ],   "pixelx" : 2848.5,   "pixely" : 1755.59,   "radius" : 362.238 }
+]
+}

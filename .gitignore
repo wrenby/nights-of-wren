@@ -1,8 +1,6 @@
-.vscode/
-astrometry.net/
 public/
-public.old/
+.vscode/
 resources/
-node_modules/
 .hugo_build.lock
 hugo_stats.json
+

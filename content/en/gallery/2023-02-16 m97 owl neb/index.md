@@ -1,19 +1,27 @@
 ---
 title: "M 97, The Owl Nebula"
 description: "A planetary nebula near Merak"
-tags: ["deep-sky", "nebula", "emission nebula", "planetary-nebula", "messier-object"]
+tags: ["deep-sky", "ursa-major", "nebula", "planetary-nebula", "emission nebula", "messier-object"]
 
 date: 2023-02-16
-date_taken: 2023-02-16
-date_posted: 2023-02-21
 
-ra: 11h14m51s
-dec: +44°01'35"
-rot: -86.12°
-width: 13.88'
-height: 10.32'
-pxscale: 0.71"/px
-moon: 30%
+equipment:
+    camera: ZWO ASI120MM Mini
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+
+framing:
+    ra: 11h14m51s
+    dec: +55°01'35"
+    rot: -86.12°
+    width: 13.88'
+    height: 10.32'
+    pxscale: 0.71"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 30%
 
 featured_image: "img/2023-02-16 m97 owl neb.png"
 ---

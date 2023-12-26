@@ -1,19 +1,28 @@
 ---
 title: "Sh2-142, The Wizard Nebula"
 description: "An emission nebula in the constellation Cepheus"
-tags: ["deep-sky", "nebula", "emission-nebula", "diffuse-nebula"]
+tags: ["deep-sky", "cepheus", "nebula", "diffuse-nebula", "emission-nebula"]
 
 date: 2022-05-20
-date_taken: 2022-05-20
-date_posted: 2023-03-20
 
-ra: 22h47m30s
-dec: +58°04'13"
-width: 82.92'
-height: 55.27'
-pxscale: 1.21"/px
-rot: -177.65°
-moon: 87%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 22h47m30s
+    dec: +58°04'13"
+    width: 82.92'
+    height: 55.27'
+    pxscale: 1.21"/px
+    rot: -177.65°
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5;
+    moon: 87%
 
 featured_image: "img/2022-05-20 sh2-142 wizard neb.png"
 ---

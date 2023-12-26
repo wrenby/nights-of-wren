@@ -4,10 +4,20 @@ description: "Waxing gibbous"
 tags: ["solar-system", "moon"]
 
 date: 2022-04-11
-date_taken: 2022-04-11
-date_posted: 2023-03-20
 
-moon: 68%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 68%
+
+orrery:
+    target: moon
+    time: 2022-04-10T19:42:00.000-04:00
 
 featured_image: "img/2022-04-11 moon.png"
 math: true

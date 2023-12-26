@@ -1,19 +1,28 @@
 ---
 title: "M 13, Hercules Globular Cluster"
 description: "A star cluster in the constellation Hercules"
-tags: ["deep-sky", "star-cluster", "globular-cluster", "messier-object"]
+tags: ["deep-sky", "hercules", "star-cluster", "globular-cluster", "messier-object"]
 
 date: 2022-04-11
-date_taken: 2022-04-11
-date_posted: 2023-03-22
 
-ra: 16h41m38s
-dec: +36°27'44"
-rot: -45.71°
-width: 75.39'
-height: 50.26'
-pxscale: 1.17"/px
-moon: 68%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 16h41m38s
+    dec: +36°27'44"
+    rot: -45.71°
+    width: 75.39'
+    height: 50.26'
+    pxscale: 1.17"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 68%
 
 featured_image: "img/2022-04-11 m13 hercules glob.png"
 ---

@@ -1,0 +1,53 @@
+header h1 svg #stars path {
+    transition: transform 0.075s linear;
+    animation: 3s linear infinite shimmer;
+    transform-box: fill-box;
+    transform-origin: center;
+}
+header h1 svg #stars #front {
+    animation-delay: 0.5s;
+}
+header h1 svg #stars #big {
+    animation-delay: 0s;
+}
+header h1 svg #stars #top {
+    animation-delay: 1.5s;
+}
+header h1 svg #stars #back {
+    animation-delay: 1s;
+}
+header h1:hover svg #stars path  {
+    /* putting the color transition only on :hover makes it snap back to the original color instantly when hover is lost */
+    transition: transform 0.075s linear, color 2s ease-in-out 1s;
+    transform: rotate(90deg);
+}
+header h1:hover svg #stars #front {
+    color: var(--accent1);
+}
+header h1:hover svg #stars #big {
+    color: var(--accent2);
+}
+header h1:hover svg #stars #top {
+    color: var(--accent3);
+}
+header h1:hover svg #stars #back {
+    color: var(--accent4);
+}
+
+@keyframes shimmer {
+    0% {
+        opacity: 1;
+    }
+    20% {
+        opacity: 0.8;
+    }
+    40% {
+        opacity: 0.9;
+    }
+    50% {
+        opacity: 0.7;
+    }
+    60% {
+        opacity: 0.85;
+    }
+}

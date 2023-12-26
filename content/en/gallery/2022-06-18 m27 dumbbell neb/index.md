@@ -1,19 +1,28 @@
 ---
 title: "M 27, The Dumbbell Nebula"
 description: A planetary nebula in the constellation Vulpecula
-tags: ["deep-sky", "nebula", "emission nebula", "planetary-nebula", "messier-object"]
+tags: ["deep-sky", "vulpecula", "nebula", "planetary-nebula", "emission nebula", "messier-object"]
 
 date: 2022-06-18
-date_taken: 2022-06-18
-date_posted: 2022-08-05
 
-ra: 19h59m36s
-dec: +22°43'17"
-rot: -0.46°
-width: 80.31'
-height: 55.60'
-pxscale: 1.18"/px
-moon: 70%
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+    guider: ZWO ASI120MM Mini
+
+framing:
+    ra: 19h59m36s
+    dec: +22°43'17"
+    rot: -0.46°
+    width: 80.31'
+    height: 55.60'
+    pxscale: 1.18"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 70%
 
 featured_image: "img/2022-06-18 m27 dumbbell neb.png"
 ---

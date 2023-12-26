@@ -1,15 +1,28 @@
 ---
 title: "Total Lunar Eclipse"
 description: Also known as a blood moon
-tags: ["solar-system", "moon"]
-date: 2022-05-15
-date_taken: 2022-05-15
-date_posted: 2022-08-04
+tags: ["solar-system", "moon", "eclipse"]
 
-width: 117.71'
-height: 78.65'
-pxscale: 1.17"/px
-moon: 100%
+date: 2022-05-15
+
+equipment:
+    camera: Fujifilm X-A5
+    telescope: GSO 6" F/4
+    mount: Celestron AVX
+
+framing:
+    width: 117.71'
+    height: 78.65'
+    pxscale: 1.17"/px
+
+environment:
+    location: Pittsburgh, PA
+    bortle: 5
+    moon: 100%
+
+orrery:
+    target: moon
+    time: 2022-05-15T23:35:00.000-04:00
 
 featured_image: "img/2022-05-15 lunar eclipse.png"
 ---
