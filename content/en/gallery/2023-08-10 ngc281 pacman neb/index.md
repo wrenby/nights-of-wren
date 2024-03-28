@@ -1,15 +1,13 @@
 ---
 title: "NGC 281, The Pac-Man Nebula"
-description: "WIP"
+description: "Pictured in the HOO color palette"
 tags: ["deep-sky", "cassiopeia", "nebula", "diffuse-nebula", "emission nebula"]
-
-draft: true
 
 date: 2023-08-10
 
 equipment:
     camera: Atik 383L+ Mono
-    filters: 36mm Baader HORGB
+    filters: Baader HORGB
     telescope: GSO 6" F/4
     mount: Celestron AVX
     guider: ZWO ASI120MM Mini
@@ -25,9 +23,12 @@ framing:
 environment:
     location: Pittsburgh, PA
     bortle: 5
-    # moon: 30%
+    moon: 24%
 
 featured_image: "img/2023-08-10 ngc281 pacman neb.png"
+
 ---
 
-TODO
+Article coming soon!
+
+<!-- NGC 281, IC 11, -->

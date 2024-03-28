@@ -25,9 +25,8 @@ environment:
     moon: 61%
 
 featured_image: "img/2022-05-09 m81 bodes gal.png"
-# draft: true
 ---
 
-M 82
+Article coming soon!
 
 Captured over two nights using a Fujifilm X-A5 and a GSO 6" F/4 Newtonian mounted on a Celestron AVX, and processed with Siril and GIMP. This image is a {{<def stack />}} of 5.5 hours total integration time distributed over 221 exposures at 1000 ISO, and calibrated using 40 biases, flats, and darks.

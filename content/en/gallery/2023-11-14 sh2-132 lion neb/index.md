@@ -1,15 +1,13 @@
 ---
 title: "Sh2-132, The Lion Nebula"
-description: "WIP"
+description: "A very dim nebula"
 tags: ["deep-sky", "ursa-major", "nebula", "planetary-nebula", "emission nebula", "messier-object"]
-
-draft: true
 
 date: 2023-11-14
 
 equipment:
     camera: Atik 383L+ Mono
-    filters: 36mm Baader HORGB
+    filters: Baader HORGB
     telescope: GSO 6" F/4
     mount: Celestron AVX
     guider: ZWO ASI120MM Mini
@@ -28,6 +26,8 @@ environment:
     # moon: 30%
 
 featured_image: "img/2023-11-14 sh2-132 lion neb.png"
+
+draft: true
 ---
 
-TODO
+Article coming soon!

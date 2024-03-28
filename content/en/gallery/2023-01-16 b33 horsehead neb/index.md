@@ -7,7 +7,7 @@ date: 2023-01-16
 
 equipment:
     camera: Atik 383L+ Mono
-    filters: 36mm Baader RGB
+    filters: Baader RGB
     telescope: GSO 6" F/4
     mount: Celestron AVX
     guider: ZWO ASI120MM Mini

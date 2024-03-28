@@ -3,11 +3,12 @@
   "git-revision": 0.94,
   "git-date": "Mon_May_1_11:19:51_2023_-0400",
   "annotations": [
-{ "type"   : "ngc",   "names"  : [ "IC 1795" ],   "pixelx" : 4182.81,   "pixely" : 3835.74,   "radius" : 221.254 },
 { "type"   : "ngc",   "names"  : [ "IC 1805" ],   "pixelx" : 3021.53,   "pixely" : 2027.07,   "radius" : 1006.27 },
 { "type"   : "ngc",   "names"  : [ "Sh2-190", "Heart Nebula" ],   "pixelx" : 2421.53,   "pixely" : 1897.07,   "radius" : 2286.27 },
-{ "type"   : "ngc",   "names"  : [ "Melotte 15" ],   "pixelx" : 2891.53,   "pixely" : 1997.07,   "radius" : 400.27 },
-{ "type"   : "ngc",   "names"  : [ "NGC 896", "Fish Head Nebula" ],   "pixelx" : 4392.07,   "pixely" : 3812.95,   "radius" : 784.378 },
+{ "type"   : "ngc",   "names"  : [ "LDN 1370" ],   "pixelx" : 720.53,   "pixely" : 2327.07,   "radius" : 430.27 },
+{ "type"   : "ngc",   "names"  : [ "Melotte 15", "Collinder 26" ],   "pixelx" : 2891.53,   "pixely" : 1997.07,   "radius" : 400.27 },
+{ "type"   : "ngc",   "names"  : [ "IC 1795", "Fish Head Nebula" ],   "pixelx" : 4392.07,   "pixely" : 3812.95,   "radius" : 834.378 },
+{ "type"   : "ngc",   "names"  : [ "NGC 896" ],   "pixelx" : 4122.81,   "pixely" : 4105.74,   "radius" : 151.254 },
 { "type"   : "star",   "names"  : [ "WeBo 1", "PN G135.6+01.0" ],   "pixelx" : 2346,   "pixely" : 163 }
 ]
 }
