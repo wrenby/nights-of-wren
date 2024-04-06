@@ -1,9 +1,9 @@
 ---
 title: "Sh2-132, The Lion Nebula"
 description: "A very dim nebula"
-tags: ["deep-sky", "ursa-major", "nebula", "planetary-nebula", "emission nebula", "messier-object"]
+tags: ["deep-sky", "cepheus", "nebula", "diffuse-nebula", "emission-nebula"]
 
-date: 2023-11-14
+date: 2023-12-14
 
 equipment:
     camera: Atik 383L+ Mono
@@ -25,9 +25,8 @@ environment:
     bortle: 5
     # moon: 30%
 
-featured_image: "img/2023-11-14 sh2-132 lion neb.png"
+featured_image: "img/2023-12-14 sh2-132 lion neb.png"
 
-draft: true
 ---
 
 Article coming soon!
