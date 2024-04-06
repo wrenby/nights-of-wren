@@ -1,7 +1,7 @@
 ---
 title: "IC 1805, The Heart Nebula"
 description: "For Koi 🧡"
-tags: ["deep-sky", "cassiopeia", "nebula", "diffuse-nebula", "emission nebula"]
+tags: ["deep-sky", "cassiopeia", "nebula", "diffuse-nebula", "emission-nebula"]
 
 date: 2023-02-14
 

@@ -1,7 +1,7 @@
 ---
 title: "M 27, The Dumbbell Nebula"
 description: A planetary nebula in the constellation Vulpecula
-tags: ["deep-sky", "vulpecula", "nebula", "planetary-nebula", "emission nebula", "messier-object"]
+tags: ["deep-sky", "vulpecula", "nebula", "planetary-nebula", "emission-nebula", "messier-object"]
 
 date: 2022-06-18
 

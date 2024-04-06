@@ -1,7 +1,7 @@
 ---
 title: "NGC 281, The Pac-Man Nebula"
 description: "Pictured in the HOO color palette"
-tags: ["deep-sky", "cassiopeia", "nebula", "diffuse-nebula", "emission nebula"]
+tags: ["deep-sky", "cassiopeia", "nebula", "diffuse-nebula", "emission-nebula"]
 
 date: 2023-08-10
 
