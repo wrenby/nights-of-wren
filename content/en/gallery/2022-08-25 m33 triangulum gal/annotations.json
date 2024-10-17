@@ -1,0 +1,10 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "NGC 595" ],   "pixelx" : 1952.67,   "pixely" : 1469.27,   "radius" : 36.4839 },
+{ "type"   : "ngc",   "names"  : [ "M 33", "NGC 598", "Triangulum Galaxy", "Triangulum Pinwheel" ],   "pixelx" : 2033.08,   "pixely" : 1315.29,   "radius" : 1309.41 },
+{ "type"   : "ngc",   "names"  : [ "NGC 604" ],   "pixelx" : 2528.61,   "pixely" : 1352.53,   "radius" : 40.7017 }
+]
+}

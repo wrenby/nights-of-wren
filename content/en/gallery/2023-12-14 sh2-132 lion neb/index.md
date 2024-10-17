@@ -1,6 +1,6 @@
 ---
 title: "Sh2-132, The Lion Nebula"
-description: "A very dim nebula"
+description: "WIP: A very dim emission nebula in Cepheus"
 tags: ["deep-sky", "cepheus", "nebula", "diffuse-nebula", "emission-nebula"]
 
 date: 2023-12-14

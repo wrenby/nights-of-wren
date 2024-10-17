@@ -1,0 +1,9 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "IC 1848" ],   "pixelx" : 1078.9,   "pixely" : 1624.88,   "radius" : 715.024 },
+{ "type"   : "ngc",   "names"  : [ "IC 1871" ],   "pixelx" : 2809.72,   "pixely" : 1671.62,   "radius" : 71.5024 }
+]
+}

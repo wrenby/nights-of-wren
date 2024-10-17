@@ -1,0 +1,10 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "NGC 4559 / Koi Fish Galaxy" ],   "pixelx" : 962,   "pixely" : 774,   "radius" : 230 },
+{ "type"   : "ngc",   "names"  : [ "IC 3598" ],   "pixelx" : 316,   "pixely" : 1356,   "radius" : 40 },
+{ "type"   : "ngc",   "names"  : [ "IC 3587" ],   "pixelx" : 1797,   "pixely" : 1332,   "radius" : 40 }
+]
+}

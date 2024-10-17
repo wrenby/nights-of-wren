@@ -1,0 +1,9 @@
+{
+  "status": "solved",
+  "git-revision": 0.95,
+  "git-date": "Mon_May_6_18:41:28_2024_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "NGC 2174", "Monkey Head Nebula" ],   "pixelx" : 1431.11,   "pixely" : 1009.58,   "radius" : 796.79 },
+{ "type"   : "ngc",   "names"  : [ "NGC 2175" ],   "pixelx" : 1218.89,   "pixely" : 1030.94,   "radius" : 99.4667 }
+]
+}

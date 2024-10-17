@@ -1,0 +1,11 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"  : "star",   "pixelx": 2116.96,         "pixely": 270.397,         "name"  : "Navi",     "names" : [ "Navi", "γ Cas / 27 Cas" ] } ,
+{ "type"   : "ngc",   "names"  : [ "Sh2-185", "Ghost of Cassiopeia", "γ Cas Nebula" ],   "pixelx" : 1402.5,   "pixely" : 1047.5,   "radius" : 915.278 },
+{ "type"   : "ngc",   "names"  : [ "IC 59" ],   "pixelx" : 1223.46,   "pixely" : 640.484,   "radius" : 184.278 },
+{ "type"   : "ngc",   "names"  : [ "IC 63" ],   "pixelx" : 1820.81,   "pixely" : 1081.48,   "radius" : 184.278 }
+]
+}

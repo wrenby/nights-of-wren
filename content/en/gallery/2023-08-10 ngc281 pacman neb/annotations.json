@@ -1,0 +1,9 @@
+{
+  "status": "solved",
+  "git-revision": 0.94,
+  "git-date": "Mon_May_1_11:19:51_2023_-0400",
+  "annotations": [
+{ "type"   : "ngc",   "names"  : [ "IC 1590" ],   "pixelx" : 1570.2,   "pixely" : 1211.13,   "radius" : 116.194 },
+{ "type"   : "ngc",   "names"  : [ "NGC 281", "Pac-Man Nebula" ],   "pixelx" : 1613.14,   "pixely" : 1260.99,   "radius" : 645.522 }
+]
+}
